@@ -1,0 +1,78 @@
+Image,City,Latitude,Longitude,Severity,Confidence,Damage %,
+satis_049.jpg,Coimbatore,11.0102,76.9701,Severe,95.26,49.17,
+verypoor_002.jpg,Coimbatore,11.0102,76.9701,Poor,87.26,13.6,
+verypoor_016.jpg,Coimbatore,11.0102,76.9701,Poor,99.39,23.27,
+verypoor_018.jpg,Coimbatore,11.0102,76.9701,Poor,95.02,10.83,
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,98.83,75.34,
+verypoor_033.jpg,Coimbatore,11.0102,76.9701,Poor,98.54,26.46,
+verypoor_042.jpg,Coimbatore,11.0102,76.9701,Poor,99.2,65.02,
+verypoor_002.jpg,Coimbatore,11.0102,76.9701,Poor,87.26,13.6,19-03-2026 13:39
+verypoor_016.jpg,Coimbatore,11.0102,76.9701,Poor,99.39,23.27,19-03-2026 13:44
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,98.83,75.34,19-03-2026 13:49
+verypoor_016.jpg,Coimbatore,11.0102,76.9701,Poor,99.39,23.27,19-03-2026 13:57
+verypoor_016.jpg,Coimbatore,11.0102,76.9701,Poor,99.39,23.27,19-03-2026 13:58
+verypoor_018.jpg,Coimbatore,11.0102,76.9701,Poor,95.02,10.83,19-03-2026 13:58
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,98.83,75.34,19-03-2026 13:58
+verypoor_033.jpg,Coimbatore,11.0102,76.9701,Poor,98.54,26.46,19-03-2026 13:58
+verypoor_042.jpg,Coimbatore,11.0102,76.9701,Poor,99.2,65.02,19-03-2026 13:58
+verypoor_002.jpg,Chennai,13.0895,80.2739,Poor,87.26,13.6,23-03-2026 12:53
+verypoor_016.jpg,Chennai,13.0895,80.2739,Poor,99.39,23.27,23-03-2026 12:54
+verypoor_018.jpg,Chennai,13.0895,80.2739,Poor,95.02,10.83,23-03-2026 12:54
+verypoor_029.jpg,Chennai,13.0895,80.2739,Poor,98.83,75.34,23-03-2026 12:54
+verypoor_033.jpg,Chennai,13.0895,80.2739,Poor,98.54,26.46,23-03-2026 12:54
+verypoor_042.jpg,Chennai,13.0895,80.2739,Poor,99.2,65.02,23-03-2026 12:54
+poor_021.jpg,Coimbatore,11.0102,76.9701,Severe,49.77,4.16,23-03-2026 20:22
+verypoor_016.jpg,Coimbatore,11.0102,76.9701,Poor,99.93,23.27,23-03-2026 20:23
+verypoor_018.jpg,Coimbatore,11.0102,76.9701,Poor,99.86,10.83,23-03-2026 20:23
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,99.79,75.34,23-03-2026 20:23
+verypoor_033.jpg,Coimbatore,11.0102,76.9701,Poor,99.56,26.46,23-03-2026 20:23
+verypoor_042.jpg,Coimbatore,11.0102,76.9701,Poor,99.96,65.02,23-03-2026 20:23
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,99.79,75.34,23-03-2026 22:55
+verypoor_018.jpg,Offline,0,0,Poor,99.86,10.83,24-03-2026 09:21
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,99.79,75.34,24-03-2026 11:39
+verypoor_018.jpg,Coimbatore,11.0102,76.9701,Poor,99.86,10.83,24-03-2026 11:39
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,99.79,75.34,24-03-2026 11:39
+verypoor_033.jpg,Coimbatore,11.0102,76.9701,Poor,99.56,26.46,24-03-2026 11:40
+verypoor_042.jpg,Coimbatore,11.0102,76.9701,Poor,99.96,65.02,24-03-2026 11:40
+OIP.webp,Coimbatore,11.0102,76.9701,Poor,100,16.94,24-03-2026 11:43
+istockphoto-1005222178-612x612.jpg,Coimbatore,11.0102,76.9701,Poor,99.97,8.93,24-03-2026 11:49
+verypoor_018.jpg,Coimbatore,11.0102,76.9701,Poor,99.86,10.83,24-03-2026 12:07
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,99.79,75.34,24-03-2026 12:08
+verypoor_033.jpg,Coimbatore,11.0102,76.9701,Poor,99.56,26.46,24-03-2026 12:08
+verypoor_042.jpg,Coimbatore,11.0102,76.9701,Poor,99.96,65.02,24-03-2026 12:08
+verypoor_018.jpg,Coimbatore,11.0102,76.9701,Poor,99.86,10.83,24-03-2026 13:08
+verypoor_029.jpg,Coimbatore,11.0102,76.9701,Poor,99.79,75.34,24-03-2026 13:08
+verypoor_033.jpg,Coimbatore,11.0102,76.9701,Poor,99.56,26.46,24-03-2026 13:08
+verypoor_042.jpg,Coimbatore,11.0102,76.9701,Poor,99.96,65.02,24-03-2026 13:08
+11.jpg,Coimbatore,11.0102,76.9701,Poor,100,21.3,24-03-2026 13:16
+r2.webp,Dharmapuri,12.123,78.1624,Poor,99.8,9.62,03-04-2026 20:54
+verypoor_018.jpg,Dharmapuri,12.123,78.1624,Poor,99.86,10.83,2026-04-04 13:41:22
+verypoor_029.jpg,Dharmapuri,12.123,78.1624,Poor,99.79,75.34,2026-04-04 13:41:23
+verypoor_033.jpg,Dharmapuri,12.123,78.1624,Poor,99.56,26.46,2026-04-04 13:41:24
+verypoor_042.jpg,Dharmapuri,12.123,78.1624,Poor,99.96,65.02,2026-04-04 13:41:26
+wewe.jpeg,Dharmapuri,12.123,78.1624,Poor,99.82,50.32,2026-04-04 13:47:49
+verypoor_018.jpg,Dharmapuri,12.123,78.1624,Poor,99.86,10.83,2026-04-04 13:49:14
+verypoor_029.jpg,Dharmapuri,12.123,78.1624,Poor,99.79,75.34,2026-04-04 13:49:15
+verypoor_033.jpg,Dharmapuri,12.123,78.1624,Poor,99.56,26.46,2026-04-04 13:49:17
+verypoor_042.jpg,Dharmapuri,12.123,78.1624,Poor,99.96,65.02,2026-04-04 13:49:18
+wewe.jpeg,Chennai,13.0895,80.2739,Poor,99.82,50.32,2026-04-04 14:44:25
+verypoor_018.jpg,Chennai,13.0895,80.2739,Poor,99.86,10.83,2026-04-04 14:45:45
+verypoor_029.jpg,Chennai,13.0895,80.2739,Poor,99.79,75.34,2026-04-04 14:45:46
+verypoor_033.jpg,Chennai,13.0895,80.2739,Poor,99.56,26.46,2026-04-04 14:45:47
+verypoor_042.jpg,Chennai,13.0895,80.2739,Poor,99.96,65.02,2026-04-04 14:45:49
+aeae.jpg,Chennai,13.0895,80.2739,Poor,99.86,13.03,2026-04-06 11:03:33
+aeae.jpg,Chennai,13.0895,80.2739,Poor,99.86,13.03,2026-04-06 12:21:16
+verypoor_018.jpg,Chennai,13.0895,80.2739,Poor,99.86,10.83,2026-04-06 12:23:41
+verypoor_029.jpg,Chennai,13.0895,80.2739,Poor,99.79,75.34,2026-04-06 12:23:43
+verypoor_033.jpg,Chennai,13.0895,80.2739,Poor,99.56,26.46,2026-04-06 12:23:44
+verypoor_042.jpg,Chennai,13.0895,80.2739,Poor,99.96,65.02,2026-04-06 12:23:46
+wew.JPG,Chennai,13.0895,80.2739,Poor,99.98,11.97,2026-04-06 12:43:26
+verypoor_018.jpg,Chennai,13.0895,80.2739,Poor,99.86,10.83,2026-04-06 12:46:49
+verypoor_029.jpg,Chennai,13.0895,80.2739,Poor,99.79,75.34,2026-04-06 12:46:50
+verypoor_033.jpg,Chennai,13.0895,80.2739,Poor,99.56,26.46,2026-04-06 12:46:51
+verypoor_042.jpg,Chennai,13.0895,80.2739,Poor,99.96,65.02,2026-04-06 12:46:53
+wew.JPG,Chennai,13.0895,80.2739,Poor,99.98,11.97,2026-04-06 12:57:19
+verypoor_018.jpg,Chennai,13.0895,80.2739,Poor,99.86,10.83,2026-04-06 12:59:03
+verypoor_029.jpg,Chennai,13.0895,80.2739,Poor,99.79,75.34,2026-04-06 12:59:05
+verypoor_033.jpg,Chennai,13.0895,80.2739,Poor,99.56,26.46,2026-04-06 12:59:06
+verypoor_042.jpg,Chennai,13.0895,80.2739,Poor,99.96,65.02,2026-04-06 12:59:08
